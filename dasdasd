@@ -1,0 +1,37 @@
+[33mcommit 5418b9609e692d56d41a21e8d8e0e720ec77c8bf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: b00f2a6 1af06ae
+Author: thaytuh <htaylorkrass@gmail.com>
+Date:   Mon Mar 3 12:30:34 2025 -0700
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit b00f2a6947ab7eaf598cbc2a7b0af05d89eabb04[m
+Author: thaytuh <htaylorkrass@gmail.com>
+Date:   Mon Mar 3 12:28:59 2025 -0700
+
+    E: update contents.md
+
+[33mcommit 1af06aec1daab056783278e31cae5ac84993ac6d[m
+Author: thaytuh <htaylorkrass@gmail.com>
+Date:   Mon Mar 3 12:18:04 2025 -0700
+
+    D: add classics.md
+
+[33mcommit 0486731e62a3c53dd1860fc55f34cba60a35f6b2[m
+Author: thaytuh <htaylorkrass@gmail.com>
+Date:   Mon Mar 3 11:54:49 2025 -0700
+
+    C: add quotes
+
+[33mcommit 50ad67b5b3b82747a9ff773e1cf97019100efe87[m
+Author: thaytuh <htaylorkrass@gmail.com>
+Date:   Mon Mar 3 11:49:18 2025 -0700
+
+    B: add titles
+
+[33mcommit f30799b7ba07aefc9c82253157af78c40e4dd6c8[m
+Author: thaytuh <htaylorkrass@gmail.com>
+Date:   Mon Mar 3 11:39:28 2025 -0700
+
+    A: add contents.md
